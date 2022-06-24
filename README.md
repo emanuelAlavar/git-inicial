@@ -4,7 +4,7 @@
 ### h3
 #### h4
 
-##Lista ordenada
+## Lista ordenada
 1. Item
 2. Item
 3. Item
@@ -14,3 +14,4 @@
 * Item
 
 * **Negrita**
+* *Cursiva*
